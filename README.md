@@ -9,6 +9,7 @@
 - I am a core backend developer with skilled with go, python and would probably scale to web3 and be a core smart contract developer too
 - I love building and working on APIs, Writing logic is fun and also watching anime to cool off 
 - If you're reading this and have open opportunities in my current field or my area interest, please do not hesitate to contact me :)
+- I am the current Google Student Developer Club, Federal University Oye-Ekiti Lead
 
 <!---
 KingAnointing/KingAnointing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
