@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KingAnointing
 - 👀 I’m interested in web2 and web3.0 backend development
-- 🌱 I’m currently learning golang and I am very interested in the blockchain and solidity
+- 🌱 I’m currently learning golang and I am very interested in the blockchain development
 - 💞️ I’m looking to collaborate on OpenSource Projects that I can work on as a Software Engineer
 - 📫 How to reach me ...
 - Twitter ---> @KingAn0inting
